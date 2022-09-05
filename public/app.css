@@ -1,0 +1,37 @@
+body{
+    font-size: 2rem;
+    background-color: #cbd5e0;
+    color: #1a202c;
+    text-align: center;
+    align-items: center;
+    height: 100%;
+}
+
+.col-12{
+    border-radius: 10px;
+     color: blue;
+     border-color: darkred;
+     background-color: darkseagreen;
+     text-align: center;
+     font-size: 20px;
+
+
+}
+
+.alert{
+    font-size: 16px;
+    background-color: #a0aec0;
+}
+.row{
+    padding: 20px;
+
+}
+.form-control {
+    background-color: white;
+
+}
+.btn{
+    font-size: 25px;
+    color: black;
+
+}
